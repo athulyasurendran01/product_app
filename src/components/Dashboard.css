@@ -1,0 +1,14 @@
+.header-container {
+    padding: 20px;
+    background-color: cornflowerblue;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.add_product_btn {
+    float: right;
+    padding: 10px 20px;
+    background: white;
+    border: 0;
+}

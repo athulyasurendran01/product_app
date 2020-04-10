@@ -1,0 +1,29 @@
+.price_cut{
+    text-decoration: line-through;
+    color: red;
+}
+.offer_price{
+    color: green;
+}
+.price_box {
+    display: inline-flex;
+}
+.MuiTypography-gutterBottom {
+    margin-bottom: 0.35em;
+    width: 100px;
+}
+
+.MuiGrid-container {
+    width: 100% !important;
+    margin: 0;
+}
+
+.MuiTypography-gutterBottom {
+    margin-bottom: 0.35em;
+    text-transform: capitalize;
+}
+
+.MuiTypography-colorTextSecondary {
+    color: rgba(0, 0, 0, 0.54);
+    text-transform: capitalize;
+}
